@@ -1,0 +1,2 @@
+Este aplicativo utiliza os recursos do MediaPlayer, ele mostra como tocar e pausar uma musica, 
+além da liberação dos recursos de memoria.
